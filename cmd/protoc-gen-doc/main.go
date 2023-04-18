@@ -22,6 +22,8 @@ import (
 	"github.com/chuanlinzhang/protoc-gen-doc"
 )
 
+
+
 func main() {
 	input, err := ioutil.ReadAll(os.Stdin)
 	if err != nil {

@@ -3,9 +3,9 @@ package gendoc
 import (
 	"encoding/json"
 	"fmt"
-	"protoc-gen-doc/parser"
-
+	"github.com/chuanlinzhang/protoc-gen-doc/parser"
 	"sort"
+	
 	"strings"
 )
 
