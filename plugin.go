@@ -2,7 +2,7 @@ package gendoc
 
 import (
 	"fmt"
-	"protoc-gen-doc/parser"
+	"github.com/chuanlinzhang/protoc-gen-doc/parser"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/protoc-gen-go/plugin"

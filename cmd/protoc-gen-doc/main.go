@@ -19,7 +19,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	gendoc "protoc-gen-doc"
+	"github.com/chuanlinzhang/protoc-gen-doc"
 )
 
 func main() {
